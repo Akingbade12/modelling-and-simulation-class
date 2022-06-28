@@ -1,1 +1,1 @@
-# modelling-and-simulation-class
+# modelling-and-simulation-practice
